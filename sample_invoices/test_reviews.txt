@@ -1,0 +1,33 @@
+==============================================================
+   TEST REVIEWS FOR INTERACTIVE INVOICE & FEEDBACK ANALYZER
+==============================================================
+
+--------------------------------------------------------------
+INVOICE 1: invoice_1.pdf (TechNova Solutions - Keyboards & Mice)
+Expected Sentiment: POSITIVE
+--------------------------------------------------------------
+The mechanical keyboards from TechNova are absolutely brilliant! Keys are responsive and the build quality is premium. The wireless mouse works flawlessly too. Very satisfied with this purchase, will definitely order again.
+
+--------------------------------------------------------------
+INVOICE 2: invoice_2.pdf (CloudMinds India - Software & Cloud)
+Expected Sentiment: NEGATIVE
+--------------------------------------------------------------
+Terrible experience with CloudMinds. The software licenses took 5 days to activate and their support team was completely unresponsive. The cloud storage kept disconnecting. Not worth the money at all.
+
+--------------------------------------------------------------
+INVOICE 3: invoice_3.pdf (Bharat Electronics - Monitors & Cables)
+Expected Sentiment: NEUTRAL
+--------------------------------------------------------------
+The Dell monitors were delivered on time and all 15 units are working. The HDMI cables are standard quality. Monitor stands are sturdy. Order was fulfilled as per the invoice specifications.
+
+--------------------------------------------------------------
+INVOICE 4: invoice_4.pdf (Wipro Peripherals - Printers & Ink)
+Expected Sentiment: NEGATIVE
+--------------------------------------------------------------
+Worst printers we have ever purchased. Both HP LaserJets started jamming paper within the first week. The ink cartridges are leaking and ruined our documents. Extremely disappointed with Wipro's quality control. Complete waste of Rs.70,000.
+
+--------------------------------------------------------------
+INVOICE 5: invoice_5.pdf (Reliance Digital - Laptops & Accessories)
+Expected Sentiment: POSITIVE
+--------------------------------------------------------------
+Good laptops from Reliance Digital. The Lenovo ThinkPads perform well for daily office use and the battery life is decent. Laptop bags are average quality but acceptable for the price. The external hard drive is fast and reliable.
